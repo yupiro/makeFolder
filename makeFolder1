@@ -15,3 +15,20 @@ mkdir P3\Cc
 mkdir P1\Ca
 mkdir P2\Cb
 mkdir P3\Cc
+
+結果
+> tree
+フォルダー パスの一覧:  ボリューム Windows
+C:.
+├─P1
+│  ├─Ca
+│  ├─Cb
+│  └─Cc
+├─P2
+│  ├─Ca
+│  ├─Cb
+│  └─Cc
+└─P3
+    ├─Ca
+    ├─Cb
+    └─Cc
