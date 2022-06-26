@@ -1,0 +1,17 @@
+
+コマンド 親フォルダ	\	子フォルダ	
+mkdir 	parentFolderName	\	childFolderName		
+
+コマンドプロンプト等で作成したいフォルダへ移動しで下記を貼り付け
+mkdir P1\Ca
+mkdir P1\Cb
+mkdir P1\Cc
+mkdir P2\Ca
+mkdir P2\Cb
+mkdir P2\Cc
+mkdir P3\Ca
+mkdir P3\Cb
+mkdir P3\Cc
+mkdir P1\Ca
+mkdir P2\Cb
+mkdir P3\Cc
